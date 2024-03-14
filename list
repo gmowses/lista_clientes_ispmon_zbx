@@ -1,4 +1,12 @@
 {
-  "EVERESTNET": "https://zabbix.everestnet.net.br/",
-  "T2WEB": "https://zbx.t2web.com.br"
+    "data": [
+        {
+            "{#NAME}": "EVEREST NET",
+            "{#URL}": "https://zabbix.everestnet.net.br/"
+        },
+        {
+            "{#NAME}": "T2WEB",
+            "{#URL}": "https://zbx.t2web.com.br"
+        }
+    ]
 }
