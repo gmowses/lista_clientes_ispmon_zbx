@@ -1,1 +1,3 @@
-https://zabbix.everestnet.net.br/
+{
+  "EVERESTNET": "https://zabbix.everestnet.net.br/"
+}
